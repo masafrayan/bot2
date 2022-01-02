@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "coastal-stream-336413",
+  "private_key_id": "46e9787b94e810460eb18bb384a6a7905b846386",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCWfv4jwrUAfzoq\n7W6SfEnwMYNDVvoPZ0/wYLact7LI1qpcwZPCcLukMFrAlocuvqOh2ybo+dLDGhvR\nboA9VXbTOt7wd1j1/pzpMMGbLC7N7agNNWwUuNXVKum2sS23y8P+XyYeddXrDC7B\nUab5dTXAO8ALVUNha68eOMTSmJarmhaUgK6Dovg5IG/W/kHK7Z7c4cju1by7lgq/\niB12AuThbtNd3d2X1QV7lx0olzjT80yYDkdwVq3K3bWib7RlYgcxZGv+fhp7bM+s\nayViJadgPIt168rkt83413mjcK4jebFUDE9rA0KUq175+/qIXpBWXOWkpbtlVVW+\n2bw3Zko7AgMBAAECggEAIetfdknlJ8aFIrW+7S8sLwHJ1vycgapEXyY9IldY6WFQ\npnVOy01DTX9EhRGoSEXZdZqCS5I7CZQx3uMr7ib8ECG9q68Kku8fCIPfrwynQ+yj\nqs52nLkIIPJ6GJ4YcstvUj65xbXDUCW/x/ySSLk9MyWEZEmEVUnC/2nGGr0fgG9y\nqzhEMRRy0A0UGLQ42Scx5uIUYKp8LZ2jRYNSLoDdTeCeIEclwbncMp6lY4BLAlEj\nhqMoLot0pcIggEjMdT5wICuViARYAvyPKBdcYjK9DMAGJTkDSQuNqkc1BxkWj24Z\nQWD5vEICzl5cepUrGGtZ4iRjRpIGkLR+hivwWx7sKQKBgQDRZ41RuEFoNUJiQk3I\n6aAC4FlB2lFJ+bIX+uu1P1+HJ63HdBehufE3FvvvBlXO2DpQwAOK6WrvT4i/13p2\n0ErbPtdZIL6cLS16rWT0IWAJ3/wfhegt60ITfctiOVe5niijEOeBaX5DniL4IwPg\n9GngUB1h/zuxFvuPG4LfKP3e3wKBgQC3+8zhRMIVCoq0WI/LDvP0KqKAsHdmiX9p\nYWn2CcRIEOWh/IEz7mVXY2VMFGVihTEKRHRWw1gLNBq0jQLH3iTAwqt6VzmXcpTF\ny0gK/kUQpDIFazySfPAF1wJUI0wbCgcpIoFIRh77qds/be41l6guo1V7qDvm8Ahv\ntdLgeDFsJQKBgQCDcCwUD0N+1W9FnbiVU49MPuXHn/FGLaTLyIQK0Cx1+UHq38O1\nj7EIkzSvY5qYqsBvzxZqKvkkHRgI0ofb7AIQe/FP0G3UOcdCKXQkiI5vpFfssXB6\n4iAne94dWUDnEY8QS5wEbuMCLlBk0BWvLbsHQUIwMLSXA4YC3ZHX4TL4oQKBgANN\n4WMWUgoAs3cDtCloblcvQNXg1XQg+gnRdw61JDJLI2SiXUuqd2V3YoVYRG3diIDv\ns8svHPCukeA2PBuM0MopdNzwnhcrNqLKwNN5t5HR8RgJ0f+rgMAKGX+bVq2Ro4lI\nllvO7pWEemyMM+AAhkO4KTvcTJ8cJnqjIFNptTGFAoGANrIHSaTF3HP+XvD9UK7t\nJuPTsbBsSt0/BGJFwi+xoH8kXT2aOl5Jn5Md+YOR1MJdtJ4JPQI1dJCfIOM8hQex\n3oH+acPi+OY7hcwwm52Q+fz9kYSFyjs7Pi7yLWGH8lmbInopgYa/KVT47YOvAfv2\n6Y/cNnxUjfPuBi3IiOOnx5s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-koak8n5b4xzurdheo2m4dffgzj@coastal-stream-336413.iam.gserviceaccount.com",
+  "client_id": "114672218075396874363",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-koak8n5b4xzurdheo2m4dffgzj%40coastal-stream-336413.iam.gserviceaccount.com"
+}
